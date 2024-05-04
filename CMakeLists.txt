@@ -7,5 +7,9 @@ add_executable(Workspace
 #        main.cpp
 #        Library/ListNode.h
 #        Library/ListNodeHelper.h
-        LeetCode/68.cpp
-        LeetCode/128.cpp)
+#        LeetCode/68.cpp
+#        LeetCode/128.cpp
+#        LeetCode/304.cpp
+#        LeetCode/304.cpp
+        LeetCode/283.cpp
+        LeetCode/347.cpp)
