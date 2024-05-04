@@ -1,0 +1,7 @@
+# ninja log v5
+4	373	7364294563008827	CMakeFiles/Workspace.dir/LeetCode/739.cpp.obj	7efb2d5e11b0a7c6
+345	437	7364459996926202	Workspace.exe	b751cda443411a6f
+4	344	7364459996034549	CMakeFiles/Workspace.dir/LeetCode/68.cpp.obj	8267ab1f1566c8eb
+2	258	7364460778540622	build.ninja	b8d0842267f49fd1
+4	349	7364308773231259	CMakeFiles/Workspace.dir/LeetCode/151.cpp.obj	15d1e89778f1ddd6
+4	574	7364415458323971	CMakeFiles/Workspace.dir/LeetCode/380.cpp.obj	efb57903aee8ca9a
